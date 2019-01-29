@@ -1,5 +1,5 @@
 # linkedIn-bot
-a bot which creates a flooding of adding people
+A simple bot/exploit which creates a flooding of adding people
 
 linkmebot.js
 
