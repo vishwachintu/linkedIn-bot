@@ -15,7 +15,7 @@ A simple bot/exploit which creates a flooding of adding people
 # Linkedtarget.js
 
 ## How to use: 
-1. 1. opne your console in your browser and press F12 for developer mode. 
+1. opne your console in your browser and press F12 for developer mode. 
 2. Go to your network page.
 3. Copy linkedtarget.js code into console tab. Edit as needed to target the people.
 4. Wait and see the results.
