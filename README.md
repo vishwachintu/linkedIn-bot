@@ -1,7 +1,7 @@
 # linkedIn-bot
 A simple bot/exploit which creates a flooding of adding people
 
-# linkmebot.js
+# Linkmebot.js
 
 ## Can scroll down to the pages and increase the connect 3000 plus. 
 
