@@ -1,4 +1,4 @@
-### this will send invitations ###
+<--! This script will send invitations --!>
 
 var countOfPagesScrolled = 5;
 
